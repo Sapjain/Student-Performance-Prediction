@@ -1,3 +1,3 @@
 # Student-Performance-Prediction
 project
-Author-sapnajain
+Author-sapna jain student
